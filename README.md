@@ -390,6 +390,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
     * [go-mssqldb](https://github.com/denisenkom/go-mssqldb) - Microsoft MSSQL driver for Go.
     * [go-oci8](https://github.com/mattn/go-oci8) - Oracle driver for go that uses database/sql.
     * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - MySQL driver for Go.
+    * [go-sqlite-lite](https://github.com/bvinc/go-sqlite-lite) - SQLite driver for Go that does not use database/sql.
     * [go-sqlite3](https://github.com/mattn/go-sqlite3) - SQLite3 driver for go that uses database/sql.
     * [gofreetds](https://github.com/minus5/gofreetds) - Microsoft MSSQL driver. Go wrapper over [FreeTDS](http://www.freetds.org).
     * [goracle](https://github.com/go-goracle/goracle) - Oracle driver for Go, using the ODPI-C driver
